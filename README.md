@@ -1,0 +1,1 @@
+# Progate-JavaScript-Minggu-2-Pokemon
